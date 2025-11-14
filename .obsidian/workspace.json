@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "b10ccb35bdce5be1",
+    "type": "split",
+    "children": [
+      {
+        "id": "17c55692e852e452",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b795b029b15a3838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "내 자식 에이전트 만들기/04장. 스튜디오 실습 - 자료조사 에이전트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04장. 스튜디오 실습 - 자료조사 에이전트"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0c9c9765fc5c6a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "caf9113d24df6a13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "578bd59cdee2854e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "e1e641d7d13dc0c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "220d53f277ac7e7e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da04f49802ce937a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bf74a50031363f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "503fbb8068182a27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "내 자식 에이전트 만들기/04장. 스튜디오 실습 - 자료조사 에이전트.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "04장. 스튜디오 실습 - 자료조사 에이전트 의 백링크"
+            }
+          },
+          {
+            "id": "a96dfada2219f90a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "내 자식 에이전트 만들기/04장. 스튜디오 실습 - 자료조사 에이전트.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "04장. 스튜디오 실습 - 자료조사 에이전트 의 나가는 링크"
+            }
+          },
+          {
+            "id": "f8659bb39767ab9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "19c5f7ac6d4c5ce4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "446fe3251a30342e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "내 자식 에이전트 만들기/04장. 스튜디오 실습 - 자료조사 에이전트.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "04장. 스튜디오 실습 - 자료조사 에이전트 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "wikidocs:위키독스 책 목록 가져오기": false,
+      "wikidocs:위키독스 블로그 가져오기": false
+    }
+  },
+  "active": "578bd59cdee2854e",
+  "lastOpenFiles": [
+    "instruction.md",
+    "내 자식 에이전트 만들기/09장. 스튜디오 실습.md",
+    "내 자식 에이전트 만들기/10장. 마무리.md",
+    "내 자식 에이전트 만들기/10장. 마무리/10-03. 닫는글.md",
+    "내 자식 에이전트 만들기/10장. 마무리/10-02. 추가 자료.md",
+    "내 자식 에이전트 만들기/10장. 마무리/10-01. 에이전트의 미래.md",
+    "내 자식 에이전트 만들기/10장. 마무리",
+    "내 자식 에이전트 만들기/09장. 스튜디오 실습/09-03. 생성.md",
+    "내 자식 에이전트 만들기/09장. 스튜디오 실습/09-02. 조사.md",
+    "내 자식 에이전트 만들기/09장. 스튜디오 실습/09-01. 목표설정.md",
+    "내 자식 에이전트 만들기/09장. 스튜디오 실습",
+    "내 자식 에이전트 만들기/08장. MCP/08-04. 나만의 MCP 서버 만들기.md",
+    "내 자식 에이전트 만들기/08장. MCP/08-03. MCP로 개발 시작해보기.md",
+    "내 자식 에이전트 만들기/08장. MCP/08-02. MCP 구조 정복하기.md",
+    "내 자식 에이전트 만들기/08장. MCP/08-01. MCP란 무엇인가?.md",
+    "내 자식 에이전트 만들기/08장. MCP",
+    "내 자식 에이전트 만들기/08장. MCP.md",
+    "내 자식 에이전트 만들기/07장. 지식베이스 - 에이전트 공부 시키기/5. 도커로 배포하기.md",
+    "내 자식 에이전트 만들기/07장. 지식베이스 - 에이전트 공부 시키기/4. SQL 에이전트.md",
+    "내 자식 에이전트 만들기/07장. 지식베이스 - 에이전트 공부 시키기/3. [Retrieval] 지식베이스 업데이트하기.md",
+    "내 자식 에이전트 만들기/07장. 지식베이스 - 에이전트 공부 시키기/2. [Retrieval] 지식베이스에서 정보찾기.md",
+    "내 자식 에이전트 만들기/07장. 지식베이스 - 에이전트 공부 시키기/1. [Store] 에이전트 지식베이스 만들기.md",
+    "내 자식 에이전트 만들기/07장. 지식베이스 - 에이전트 공부 시키기",
+    "내 자식 에이전트 만들기/07장. 지식베이스 - 에이전트 공부 시키기.md",
+    "내 자식 에이전트 만들기/06장. 멀티 에이전트 - 에이전트가 친구를 만나기 시작하다/3. [Map & Reduce Reasoning] 모인 생각을 하나로 정리하기.md",
+    "내 자식 에이전트 만들기/06장. 멀티 에이전트 - 에이전트가 친구를 만나기 시작하다/2. [Subgraph Collaboration] 역할을 나눠 일하기.md",
+    "내 자식 에이전트 만들기/06장. 멀티 에이전트 - 에이전트가 친구를 만나기 시작하다/1. [Parallel Collaboration] 에이전트 친구 사귀기.md",
+    "내 자식 에이전트 만들기/06장. 멀티 에이전트 - 에이전트가 친구를 만나기 시작하다",
+    "내 자식 에이전트 만들기/06장. 멀티 에이전트 - 에이전트가 친구를 만나기 시작하다.md",
+    "내 자식 에이전트 만들기/05장. 에이전트 동작의 설계도/3. [ReAct 에이전트] 도구 사용을 위한 표준 절차.md",
+    "내 자식 에이전트 만들기/05장. 에이전트 동작의 설계도/2. [리듀서, 라우터] 어떻게 바꾸고 어디로 갈까?.md",
+    "내 자식 에이전트 만들기/05장. 에이전트 동작의 설계도",
+    "내 자식 에이전트 만들기/04장. 스튜디오 실습 - 자료조사 에이전트",
+    "내 자식 에이전트 만들기/03장. 에이전트와의 상호작용",
+    "내 자식 에이전트 만들기/02장. 외부 세계와의 연결",
+    "내 자식 에이전트 만들기/01장. 에이전트의 탄생"
+  ]
+}
